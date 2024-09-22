@@ -1,600 +1,600 @@
-,Team,Win PCT,seasonEncoded
-0,Indiana,0.725,7
-1,San Antonio,0.685,7
-2,Minnesota,0.68,7
-3,Detroit,0.667,7
-4,LA Lakers,0.664,7
-5,Sacramento,0.66,7
-6,Dallas,0.609,7
-7,Memphis,0.581,7
-8,Brooklyn,0.581,7
-9,Houston,0.529,7
-10,Utah,0.512,7
-11,Denver,0.506,7
-12,Miami,0.505,7
-13,Portland,0.5,7
-14,New Orleans,0.494,7
-15,Milwaukee,0.483,7
-16,New York,0.454,7
-17,Okla City,0.451,7
-18,Golden State,0.451,7
-19,Cleveland,0.427,7
-20,Boston,0.419,7
-21,Toronto,0.402,7
-22,Philadelphia,0.402,7
-23,Phoenix,0.354,7
-24,Atlanta,0.342,7
-25,LA Clippers,0.342,7
-26,Washington,0.305,7
-27,Chicago,0.281,7
-28,Orlando,0.256,7
-29,Phoenix,0.732,8
-30,San Antonio,0.723,8
-31,Miami,0.722,8
-32,Dallas,0.674,8
-33,Detroit,0.651,8
-34,Okla City,0.624,8
-35,Houston,0.607,8
-36,Sacramento,0.586,8
-37,Denver,0.575,8
-38,Chicago,0.557,8
-39,Boston,0.539,8
-40,Minnesota,0.537,8
-41,Washington,0.533,8
-42,Indiana,0.526,8
-43,Memphis,0.523,8
-44,Cleveland,0.512,8
-45,Philadelphia,0.506,8
-46,Brooklyn,0.488,8
-47,LA Clippers,0.451,8
-48,Orlando,0.439,8
-49,LA Lakers,0.415,8
-50,Golden State,0.415,8
-51,New York,0.402,8
-52,Toronto,0.402,8
-53,Milwaukee,0.366,8
-54,Portland,0.329,8
-55,Utah,0.317,8
-56,New Orleans,0.22,8
-57,Charlotte,0.22,8
-58,Atlanta,0.159,8
-59,Detroit,0.74,9
-60,San Antonio,0.737,9
-61,Dallas,0.718,9
-62,Miami,0.641,9
-63,Phoenix,0.628,9
-64,Cleveland,0.6,9
-65,Brooklyn,0.581,9
-66,LA Clippers,0.575,9
-67,Memphis,0.57,9
-68,LA Lakers,0.539,9
-69,Sacramento,0.523,9
-70,Denver,0.517,9
-71,Washington,0.5,9
-72,Utah,0.5,9
-73,Indiana,0.489,9
-74,Chicago,0.489,9
-75,Milwaukee,0.471,9
-76,New Orleans,0.463,9
-77,Philadelphia,0.463,9
-78,Orlando,0.439,9
-79,Okla City,0.427,9
-80,Golden State,0.415,9
-81,Houston,0.415,9
-82,Minnesota,0.402,9
-83,Boston,0.402,9
-84,Toronto,0.329,9
-85,Charlotte,0.317,9
-86,Atlanta,0.317,9
-87,New York,0.281,9
-88,Portland,0.256,9
-89,Dallas,0.784,10
-90,San Antonio,0.726,10
-91,Phoenix,0.72,10
-92,Detroit,0.643,10
-93,Houston,0.618,10
-94,Cleveland,0.608,10
-95,Utah,0.606,10
-96,Chicago,0.598,10
-97,Toronto,0.557,10
-98,Denver,0.529,10
-99,Miami,0.512,10
-100,Golden State,0.505,10
-101,Brooklyn,0.5,10
-102,LA Lakers,0.494,10
-103,LA Clippers,0.488,10
-104,Washington,0.477,10
-105,New Orleans,0.476,10
-106,Orlando,0.465,10
-107,Philadelphia,0.427,10
-108,Indiana,0.427,10
-109,New York,0.402,10
-110,Charlotte,0.402,10
-111,Sacramento,0.402,10
-112,Minnesota,0.39,10
-113,Portland,0.39,10
-114,Okla City,0.378,10
-115,Atlanta,0.366,10
-116,Milwaukee,0.342,10
-117,Boston,0.293,10
-118,Memphis,0.268,10
-119,Boston,0.757,11
-120,Detroit,0.697,11
-121,LA Lakers,0.696,11
-122,New Orleans,0.67,11
-123,San Antonio,0.657,11
-124,Houston,0.648,11
-125,Phoenix,0.644,11
-126,Utah,0.638,11
-127,Orlando,0.62,11
-128,Dallas,0.598,11
-129,Golden State,0.585,11
-130,Denver,0.581,11
-131,Cleveland,0.547,11
-132,Washington,0.511,11
-133,Portland,0.5,11
-134,Toronto,0.483,11
-135,Philadelphia,0.477,11
-136,Sacramento,0.463,11
-137,Atlanta,0.449,11
-138,Indiana,0.439,11
-139,Brooklyn,0.415,11
-140,Chicago,0.402,11
-141,Charlotte,0.39,11
-142,Milwaukee,0.317,11
-143,LA Clippers,0.281,11
-144,New York,0.281,11
-145,Minnesota,0.268,11
-146,Memphis,0.268,11
-147,Okla City,0.244,11
-148,Miami,0.183,11
-149,Cleveland,0.792,12
-150,LA Lakers,0.771,12
-151,Boston,0.719,12
-152,Orlando,0.679,12
-153,Denver,0.653,12
-154,Portland,0.636,12
-155,San Antonio,0.632,12
-156,Houston,0.632,12
-157,Dallas,0.598,12
-158,New Orleans,0.575,12
-159,Utah,0.563,12
-160,Phoenix,0.561,12
-161,Atlanta,0.548,12
-162,Miami,0.517,12
-163,Chicago,0.494,12
-164,Philadelphia,0.489,12
-165,Detroit,0.454,12
-166,Indiana,0.439,12
-167,Charlotte,0.427,12
-168,Brooklyn,0.415,12
-169,Milwaukee,0.415,12
-170,Toronto,0.402,12
-171,New York,0.39,12
-172,Golden State,0.354,12
-173,Memphis,0.293,12
-174,Minnesota,0.293,12
-175,Okla City,0.281,12
-176,Washington,0.232,12
-177,LA Clippers,0.232,12
-178,Sacramento,0.207,12
-179,Cleveland,0.72,13
-180,Orlando,0.719,13
-181,LA Lakers,0.692,13
-182,Phoenix,0.653,13
-183,Dallas,0.648,13
-184,Denver,0.625,13
-185,Utah,0.62,13
-186,Boston,0.619,13
-187,Atlanta,0.613,13
-188,Okla City,0.591,13
-189,Portland,0.591,13
-190,San Antonio,0.587,13
-191,Miami,0.552,13
-192,Milwaukee,0.551,13
-193,Houston,0.512,13
-194,Charlotte,0.512,13
-195,Toronto,0.488,13
-196,Memphis,0.488,13
-197,Chicago,0.483,13
-198,New Orleans,0.451,13
-199,Indiana,0.39,13
-200,LA Clippers,0.354,13
-201,New York,0.354,13
-202,Detroit,0.329,13
-203,Philadelphia,0.329,13
-204,Golden State,0.317,13
-205,Washington,0.317,13
-206,Sacramento,0.301,13
-207,Minnesota,0.183,13
-208,Brooklyn,0.146,13
-209,Chicago,0.725,14
-210,San Antonio,0.716,14
-211,Miami,0.706,14
-212,Dallas,0.706,14
-213,Boston,0.67,14
-214,LA Lakers,0.663,14
-215,Okla City,0.647,14
-216,Orlando,0.614,14
-217,Denver,0.586,14
-218,Portland,0.568,14
-219,Memphis,0.558,14
-220,New Orleans,0.546,14
-221,Atlanta,0.532,14
-222,Houston,0.524,14
-223,New York,0.488,14
-224,Phoenix,0.488,14
-225,Philadelphia,0.483,14
-226,Utah,0.476,14
-227,Golden State,0.439,14
-228,Indiana,0.437,14
-229,Milwaukee,0.427,14
-230,Charlotte,0.415,14
-231,LA Clippers,0.39,14
-232,Detroit,0.366,14
-233,Sacramento,0.293,14
-234,Brooklyn,0.293,14
-235,Washington,0.281,14
-236,Toronto,0.268,14
-237,Cleveland,0.232,14
-238,Minnesota,0.207,14
-239,San Antonio,0.75,15
-240,Okla City,0.723,15
-241,Chicago,0.722,15
-242,Miami,0.686,15
-243,Indiana,0.623,15
-244,Memphis,0.603,15
-245,LA Lakers,0.59,15
-246,Atlanta,0.583,15
-247,Boston,0.581,15
-248,LA Clippers,0.571,15
-249,Denver,0.562,15
-250,Orlando,0.535,15
-251,Philadelphia,0.532,15
-252,New York,0.521,15
-253,Houston,0.515,15
-254,Utah,0.514,15
-255,Dallas,0.514,15
-256,Phoenix,0.5,15
-257,Milwaukee,0.47,15
-258,Portland,0.424,15
-259,Minnesota,0.394,15
-260,Detroit,0.379,15
-261,Golden State,0.349,15
-262,Toronto,0.349,15
-263,Brooklyn,0.333,15
-264,Sacramento,0.333,15
-265,Cleveland,0.318,15
-266,New Orleans,0.318,15
-267,Washington,0.303,15
-268,Charlotte,0.106,15
-269,Miami,0.784,16
-270,San Antonio,0.72,16
-271,Okla City,0.699,16
-272,Denver,0.671,16
-273,Memphis,0.66,16
-274,LA Clippers,0.659,16
-275,New York,0.638,16
-276,Indiana,0.6,16
-277,Brooklyn,0.584,16
-278,Golden State,0.564,16
-279,Houston,0.534,16
-280,Chicago,0.532,16
-281,Utah,0.524,16
-282,LA Lakers,0.523,16
-283,Atlanta,0.523,16
-284,Dallas,0.5,16
-285,Boston,0.494,16
-286,Milwaukee,0.442,16
-287,Toronto,0.415,16
-288,Philadelphia,0.415,16
-289,Portland,0.402,16
-290,Minnesota,0.378,16
-291,Detroit,0.354,16
-292,Washington,0.354,16
-293,Sacramento,0.342,16
-294,New Orleans,0.329,16
-295,Phoenix,0.305,16
-296,Cleveland,0.293,16
-297,Charlotte,0.256,16
-298,Orlando,0.244,16
-299,San Antonio,0.74,17
-300,Okla City,0.683,17
-301,Miami,0.663,17
-302,LA Clippers,0.663,17
-303,Indiana,0.654,17
-304,Houston,0.636,17
-305,Portland,0.634,17
-306,Golden State,0.607,17
-307,Memphis,0.596,17
-308,Phoenix,0.585,17
-309,Dallas,0.584,17
-310,Toronto,0.573,17
-311,Chicago,0.563,17
-312,Washington,0.538,17
-313,Brooklyn,0.521,17
-314,Charlotte,0.5,17
-315,Minnesota,0.488,17
-316,Atlanta,0.461,17
-317,New York,0.451,17
-318,Denver,0.439,17
-319,New Orleans,0.415,17
-320,Cleveland,0.402,17
-321,Detroit,0.354,17
-322,Sacramento,0.342,17
-323,LA Lakers,0.329,17
-324,Utah,0.305,17
-325,Boston,0.305,17
-326,Orlando,0.281,17
-327,Philadelphia,0.232,17
-328,Milwaukee,0.183,17
-329,Golden State,0.804,18
-330,Atlanta,0.694,18
-331,Cleveland,0.663,18
-332,Houston,0.657,18
-333,LA Clippers,0.656,18
-334,Memphis,0.656,18
-335,San Antonio,0.652,18
-336,Portland,0.598,18
-337,Chicago,0.596,18
-338,Dallas,0.586,18
-339,Toronto,0.57,18
-340,Washington,0.565,18
-341,Okla City,0.549,18
-342,New Orleans,0.523,18
-343,Milwaukee,0.489,18
-344,Phoenix,0.476,18
-345,Boston,0.465,18
-346,Utah,0.463,18
-347,Indiana,0.463,18
-348,Brooklyn,0.455,18
-349,Miami,0.451,18
-350,Charlotte,0.402,18
-351,Detroit,0.39,18
-352,Denver,0.366,18
-353,Sacramento,0.354,18
-354,Orlando,0.305,18
-355,LA Lakers,0.256,18
-356,Philadelphia,0.22,18
-357,New York,0.207,18
-358,Minnesota,0.195,18
-359,Golden State,0.846,19
-360,San Antonio,0.794,19
-361,Cleveland,0.703,19
-362,Okla City,0.66,19
-363,Toronto,0.647,19
-364,LA Clippers,0.625,19
-365,Charlotte,0.573,19
-366,Miami,0.573,19
-367,Boston,0.568,19
-368,Atlanta,0.565,19
-369,Indiana,0.539,19
-370,Portland,0.527,19
-371,Chicago,0.512,19
-372,Detroit,0.512,19
-373,Washington,0.5,19
-374,Dallas,0.494,19
-375,Memphis,0.488,19
-376,Utah,0.488,19
-377,Houston,0.483,19
-378,Orlando,0.427,19
-379,Sacramento,0.402,19
-380,Milwaukee,0.402,19
-381,Denver,0.402,19
-382,New York,0.39,19
-383,New Orleans,0.366,19
-384,Minnesota,0.354,19
-385,Phoenix,0.281,19
-386,Brooklyn,0.256,19
-387,LA Lakers,0.207,19
-388,Philadelphia,0.122,19
-389,Golden State,0.838,20
-390,San Antonio,0.704,20
-391,Houston,0.656,20
-392,Cleveland,0.64,20
-393,Boston,0.62,20
-394,LA Clippers,0.607,20
-395,Toronto,0.598,20
-396,Utah,0.591,20
-397,Washington,0.59,20
-398,Okla City,0.552,20
-399,Memphis,0.511,20
-400,Atlanta,0.511,20
-401,Milwaukee,0.5,20
-402,Miami,0.5,20
-403,Chicago,0.489,20
-404,Indiana,0.488,20
-405,Denver,0.488,20
-406,Portland,0.477,20
-407,Detroit,0.451,20
-408,Charlotte,0.439,20
-409,New Orleans,0.415,20
-410,Dallas,0.402,20
-411,Sacramento,0.39,20
-412,Minnesota,0.378,20
-413,New York,0.378,20
-414,Orlando,0.354,20
-415,Philadelphia,0.342,20
-416,LA Lakers,0.317,20
-417,Phoenix,0.293,20
-418,Brooklyn,0.244,20
-419,Houston,0.768,21
-420,Golden State,0.718,21
-421,Toronto,0.685,21
-422,Boston,0.654,21
-423,Philadelphia,0.62,21
-424,Cleveland,0.596,21
-425,New Orleans,0.582,21
-426,Indiana,0.573,21
-427,Utah,0.57,21
-428,Portland,0.57,21
-429,Okla City,0.568,21
-430,Denver,0.561,21
-431,San Antonio,0.552,21
-432,Minnesota,0.552,21
-433,Milwaukee,0.528,21
-434,Miami,0.517,21
-435,LA Clippers,0.512,21
-436,Washington,0.511,21
-437,Detroit,0.476,21
-438,Charlotte,0.439,21
-439,LA Lakers,0.427,21
-440,New York,0.354,21
-441,Brooklyn,0.342,21
-442,Chicago,0.329,21
-443,Sacramento,0.329,21
-444,Orlando,0.305,21
-445,Atlanta,0.293,21
-446,Dallas,0.293,21
-447,Memphis,0.268,21
-448,Phoenix,0.256,21
-449,Milwaukee,0.722,22
-450,Toronto,0.698,22
-451,Golden State,0.683,22
-452,Denver,0.635,22
-453,Houston,0.634,22
-454,Portland,0.622,22
-455,Philadelphia,0.617,22
-456,Boston,0.593,22
-457,Utah,0.586,22
-458,Okla City,0.575,22
-459,San Antonio,0.573,22
-460,LA Clippers,0.568,22
-461,Indiana,0.558,22
-462,Orlando,0.494,22
-463,Brooklyn,0.494,22
-464,Detroit,0.477,22
-465,Charlotte,0.476,22
-466,Sacramento,0.476,22
-467,Miami,0.476,22
-468,LA Lakers,0.451,22
-469,Minnesota,0.439,22
-470,New Orleans,0.402,22
-471,Memphis,0.402,22
-472,Dallas,0.402,22
-473,Washington,0.39,22
-474,Atlanta,0.354,22
-475,Chicago,0.268,22
-476,Cleveland,0.232,22
-477,Phoenix,0.232,22
-478,New York,0.207,22
-479,Milwaukee,0.815,23
-480,LA Lakers,0.778,23
-481,Toronto,0.719,23
-482,LA Clippers,0.688,23
-483,Boston,0.672,23
-484,Denver,0.662,23
-485,Utah,0.641,23
-486,Miami,0.631,23
-487,Okla City,0.625,23
-488,Houston,0.625,23
-489,Philadelphia,0.6,23
-490,Indiana,0.6,23
-491,Dallas,0.597,23
-492,Memphis,0.492,23
-493,Brooklyn,0.469,23
-494,Orlando,0.462,23
-495,Portland,0.439,23
-496,New Orleans,0.438,23
-497,Sacramento,0.438,23
-498,San Antonio,0.429,23
-499,Phoenix,0.4,23
-500,Washington,0.375,23
-501,Charlotte,0.354,23
-502,Chicago,0.339,23
-503,New York,0.318,23
-504,Detroit,0.303,23
-505,Atlanta,0.299,23
-506,Minnesota,0.297,23
-507,Cleveland,0.292,23
-508,Golden State,0.231,23
-509,Phoenix,0.72,24
-510,Utah,0.716,24
-511,Philadelphia,0.679,24
-512,Brooklyn,0.671,24
-513,Milwaukee,0.642,24
-514,LA Clippers,0.639,24
-515,Denver,0.622,24
-516,Atlanta,0.58,24
-517,LA Lakers,0.57,24
-518,Dallas,0.57,24
-519,Portland,0.564,24
-520,New York,0.546,24
-521,Golden State,0.527,24
-522,Miami,0.526,24
-523,Memphis,0.519,24
-524,Boston,0.487,24
-525,Indiana,0.473,24
-526,Washington,0.456,24
-527,San Antonio,0.452,24
-528,Charlotte,0.452,24
-529,New Orleans,0.431,24
-530,Chicago,0.431,24
-531,Sacramento,0.431,24
-532,Toronto,0.375,24
-533,Minnesota,0.319,24
-534,Okla City,0.306,24
-535,Cleveland,0.306,24
-536,Orlando,0.292,24
-537,Detroit,0.278,24
-538,Houston,0.236,24
-539,Phoenix,0.747,25
-540,Golden State,0.66,25
-541,Memphis,0.66,25
-542,Miami,0.64,25
-543,Boston,0.619,25
-544,Milwaukee,0.617,25
-545,Dallas,0.61,25
-546,Philadelphia,0.606,25
-547,Utah,0.58,25
-548,Toronto,0.568,25
-549,Denver,0.563,25
-550,Minnesota,0.551,25
-551,Chicago,0.54,25
-552,Cleveland,0.524,25
-553,Charlotte,0.518,25
-554,Brooklyn,0.517,25
-555,Atlanta,0.517,25
-556,LA Clippers,0.5,25
-557,New York,0.451,25
-558,New Orleans,0.444,25
-559,Washington,0.427,25
-560,San Antonio,0.41,25
-561,LA Lakers,0.402,25
-562,Sacramento,0.366,25
-563,Portland,0.329,25
-564,Indiana,0.305,25
-565,Okla City,0.293,25
-566,Detroit,0.281,25
-567,Orlando,0.268,25
-568,Houston,0.244,25
-569,Milwaukee,0.678,26
-570,Denver,0.677,26
-571,Boston,0.667,26
-572,Philadelphia,0.656,26
-573,Memphis,0.602,26
-574,Cleveland,0.598,26
-575,Sacramento,0.573,26
-576,New York,0.57,26
-577,Phoenix,0.548,26
-578,Miami,0.542,26
-579,Golden State,0.526,26
-580,LA Lakers,0.525,26
-581,Brooklyn,0.523,26
-582,LA Clippers,0.517,26
-583,New Orleans,0.506,26
-584,Minnesota,0.494,26
-585,Atlanta,0.494,26
-586,Toronto,0.494,26
-587,Okla City,0.488,26
-588,Chicago,0.488,26
-589,Dallas,0.463,26
-590,Utah,0.451,26
-591,Indiana,0.427,26
-592,Washington,0.427,26
-593,Orlando,0.415,26
-594,Portland,0.402,26
-595,Charlotte,0.329,26
-596,Houston,0.268,26
-597,San Antonio,0.268,26
-598,Detroit,0.207,26
+Team,Win PCT,season
+Indiana,0.725,2004
+San Antonio,0.685,2004
+Minnesota,0.68,2004
+Detroit,0.667,2004
+LA Lakers,0.664,2004
+Sacramento,0.66,2004
+Dallas,0.609,2004
+Memphis,0.581,2004
+Brooklyn,0.581,2004
+Houston,0.529,2004
+Utah,0.512,2004
+Denver,0.506,2004
+Miami,0.505,2004
+Portland,0.5,2004
+New Orleans,0.494,2004
+Milwaukee,0.483,2004
+New York,0.454,2004
+Okla City,0.451,2004
+Golden State,0.451,2004
+Cleveland,0.427,2004
+Boston,0.419,2004
+Philadelphia,0.402,2004
+Toronto,0.402,2004
+Phoenix,0.354,2004
+Atlanta,0.342,2004
+LA Clippers,0.342,2004
+Washington,0.305,2004
+Chicago,0.281,2004
+Orlando,0.256,2004
+Phoenix,0.732,2005
+San Antonio,0.723,2005
+Miami,0.722,2005
+Dallas,0.674,2005
+Detroit,0.651,2005
+Okla City,0.624,2005
+Houston,0.607,2005
+Sacramento,0.586,2005
+Denver,0.575,2005
+Chicago,0.557,2005
+Boston,0.539,2005
+Minnesota,0.537,2005
+Washington,0.533,2005
+Indiana,0.526,2005
+Memphis,0.523,2005
+Cleveland,0.512,2005
+Philadelphia,0.506,2005
+Brooklyn,0.488,2005
+LA Clippers,0.451,2005
+Orlando,0.439,2005
+Golden State,0.415,2005
+LA Lakers,0.415,2005
+New York,0.402,2005
+Toronto,0.402,2005
+Milwaukee,0.366,2005
+Portland,0.329,2005
+Utah,0.317,2005
+New Orleans,0.22,2005
+Charlotte,0.22,2005
+Atlanta,0.159,2005
+Detroit,0.74,2006
+San Antonio,0.737,2006
+Dallas,0.718,2006
+Miami,0.641,2006
+Phoenix,0.628,2006
+Cleveland,0.6,2006
+Brooklyn,0.581,2006
+LA Clippers,0.575,2006
+Memphis,0.57,2006
+LA Lakers,0.539,2006
+Sacramento,0.523,2006
+Denver,0.517,2006
+Washington,0.5,2006
+Utah,0.5,2006
+Indiana,0.489,2006
+Chicago,0.489,2006
+Milwaukee,0.471,2006
+New Orleans,0.463,2006
+Philadelphia,0.463,2006
+Orlando,0.439,2006
+Okla City,0.427,2006
+Golden State,0.415,2006
+Houston,0.415,2006
+Boston,0.402,2006
+Minnesota,0.402,2006
+Toronto,0.329,2006
+Charlotte,0.317,2006
+Atlanta,0.317,2006
+New York,0.281,2006
+Portland,0.256,2006
+Dallas,0.784,2007
+San Antonio,0.726,2007
+Phoenix,0.72,2007
+Detroit,0.643,2007
+Houston,0.618,2007
+Cleveland,0.608,2007
+Utah,0.606,2007
+Chicago,0.598,2007
+Toronto,0.557,2007
+Denver,0.529,2007
+Miami,0.512,2007
+Golden State,0.505,2007
+Brooklyn,0.5,2007
+LA Lakers,0.494,2007
+LA Clippers,0.488,2007
+Washington,0.477,2007
+New Orleans,0.476,2007
+Orlando,0.465,2007
+Philadelphia,0.427,2007
+Indiana,0.427,2007
+New York,0.402,2007
+Charlotte,0.402,2007
+Sacramento,0.402,2007
+Minnesota,0.39,2007
+Portland,0.39,2007
+Okla City,0.378,2007
+Atlanta,0.366,2007
+Milwaukee,0.342,2007
+Boston,0.293,2007
+Memphis,0.268,2007
+Boston,0.757,2008
+Detroit,0.697,2008
+LA Lakers,0.696,2008
+New Orleans,0.67,2008
+San Antonio,0.657,2008
+Houston,0.648,2008
+Phoenix,0.644,2008
+Utah,0.638,2008
+Orlando,0.62,2008
+Dallas,0.598,2008
+Golden State,0.585,2008
+Denver,0.581,2008
+Cleveland,0.547,2008
+Washington,0.511,2008
+Portland,0.5,2008
+Toronto,0.483,2008
+Philadelphia,0.477,2008
+Sacramento,0.463,2008
+Atlanta,0.449,2008
+Indiana,0.439,2008
+Brooklyn,0.415,2008
+Chicago,0.402,2008
+Charlotte,0.39,2008
+Milwaukee,0.317,2008
+LA Clippers,0.281,2008
+New York,0.281,2008
+Minnesota,0.268,2008
+Memphis,0.268,2008
+Okla City,0.244,2008
+Miami,0.183,2008
+Cleveland,0.792,2009
+LA Lakers,0.771,2009
+Boston,0.719,2009
+Orlando,0.679,2009
+Denver,0.653,2009
+Portland,0.636,2009
+San Antonio,0.632,2009
+Houston,0.632,2009
+Dallas,0.598,2009
+New Orleans,0.575,2009
+Utah,0.563,2009
+Phoenix,0.561,2009
+Atlanta,0.548,2009
+Miami,0.517,2009
+Chicago,0.494,2009
+Philadelphia,0.489,2009
+Detroit,0.454,2009
+Indiana,0.439,2009
+Charlotte,0.427,2009
+Milwaukee,0.415,2009
+Brooklyn,0.415,2009
+Toronto,0.402,2009
+New York,0.39,2009
+Golden State,0.354,2009
+Minnesota,0.293,2009
+Memphis,0.293,2009
+Okla City,0.281,2009
+LA Clippers,0.232,2009
+Washington,0.232,2009
+Sacramento,0.207,2009
+Cleveland,0.72,2010
+Orlando,0.719,2010
+LA Lakers,0.692,2010
+Phoenix,0.653,2010
+Dallas,0.648,2010
+Denver,0.625,2010
+Utah,0.62,2010
+Boston,0.619,2010
+Atlanta,0.613,2010
+Portland,0.591,2010
+Okla City,0.591,2010
+San Antonio,0.587,2010
+Miami,0.552,2010
+Milwaukee,0.551,2010
+Houston,0.512,2010
+Charlotte,0.512,2010
+Toronto,0.488,2010
+Memphis,0.488,2010
+Chicago,0.483,2010
+New Orleans,0.451,2010
+Indiana,0.39,2010
+LA Clippers,0.354,2010
+New York,0.354,2010
+Detroit,0.329,2010
+Philadelphia,0.329,2010
+Golden State,0.317,2010
+Washington,0.317,2010
+Sacramento,0.301,2010
+Minnesota,0.183,2010
+Brooklyn,0.146,2010
+Chicago,0.725,2011
+San Antonio,0.716,2011
+Miami,0.706,2011
+Dallas,0.706,2011
+Boston,0.67,2011
+LA Lakers,0.663,2011
+Okla City,0.647,2011
+Orlando,0.614,2011
+Denver,0.586,2011
+Portland,0.568,2011
+Memphis,0.558,2011
+New Orleans,0.546,2011
+Atlanta,0.532,2011
+Houston,0.524,2011
+New York,0.488,2011
+Phoenix,0.488,2011
+Philadelphia,0.483,2011
+Utah,0.476,2011
+Golden State,0.439,2011
+Indiana,0.437,2011
+Milwaukee,0.427,2011
+Charlotte,0.415,2011
+LA Clippers,0.39,2011
+Detroit,0.366,2011
+Brooklyn,0.293,2011
+Sacramento,0.293,2011
+Washington,0.281,2011
+Toronto,0.268,2011
+Cleveland,0.232,2011
+Minnesota,0.207,2011
+San Antonio,0.75,2012
+Okla City,0.723,2012
+Chicago,0.722,2012
+Miami,0.686,2012
+Indiana,0.623,2012
+Memphis,0.603,2012
+LA Lakers,0.59,2012
+Atlanta,0.583,2012
+Boston,0.581,2012
+LA Clippers,0.571,2012
+Denver,0.562,2012
+Orlando,0.535,2012
+Philadelphia,0.532,2012
+New York,0.521,2012
+Houston,0.515,2012
+Utah,0.514,2012
+Dallas,0.514,2012
+Phoenix,0.5,2012
+Milwaukee,0.47,2012
+Portland,0.424,2012
+Minnesota,0.394,2012
+Detroit,0.379,2012
+Golden State,0.349,2012
+Toronto,0.349,2012
+Sacramento,0.333,2012
+Brooklyn,0.333,2012
+Cleveland,0.318,2012
+New Orleans,0.318,2012
+Washington,0.303,2012
+Charlotte,0.106,2012
+Miami,0.784,2013
+San Antonio,0.72,2013
+Okla City,0.699,2013
+Denver,0.671,2013
+Memphis,0.66,2013
+LA Clippers,0.659,2013
+New York,0.638,2013
+Indiana,0.6,2013
+Brooklyn,0.584,2013
+Golden State,0.564,2013
+Houston,0.534,2013
+Chicago,0.532,2013
+Utah,0.524,2013
+LA Lakers,0.523,2013
+Atlanta,0.523,2013
+Dallas,0.5,2013
+Boston,0.494,2013
+Milwaukee,0.442,2013
+Toronto,0.415,2013
+Philadelphia,0.415,2013
+Portland,0.402,2013
+Minnesota,0.378,2013
+Detroit,0.354,2013
+Washington,0.354,2013
+Sacramento,0.342,2013
+New Orleans,0.329,2013
+Phoenix,0.305,2013
+Cleveland,0.293,2013
+Charlotte,0.256,2013
+Orlando,0.244,2013
+San Antonio,0.74,2014
+Okla City,0.683,2014
+Miami,0.663,2014
+LA Clippers,0.663,2014
+Indiana,0.654,2014
+Houston,0.636,2014
+Portland,0.634,2014
+Golden State,0.607,2014
+Memphis,0.596,2014
+Phoenix,0.585,2014
+Dallas,0.584,2014
+Toronto,0.573,2014
+Chicago,0.563,2014
+Washington,0.538,2014
+Brooklyn,0.521,2014
+Charlotte,0.5,2014
+Minnesota,0.488,2014
+Atlanta,0.461,2014
+New York,0.451,2014
+Denver,0.439,2014
+New Orleans,0.415,2014
+Cleveland,0.402,2014
+Detroit,0.354,2014
+Sacramento,0.342,2014
+LA Lakers,0.329,2014
+Utah,0.305,2014
+Boston,0.305,2014
+Orlando,0.281,2014
+Philadelphia,0.232,2014
+Milwaukee,0.183,2014
+Golden State,0.804,2015
+Atlanta,0.694,2015
+Cleveland,0.663,2015
+Houston,0.657,2015
+LA Clippers,0.656,2015
+Memphis,0.656,2015
+San Antonio,0.652,2015
+Portland,0.598,2015
+Chicago,0.596,2015
+Dallas,0.586,2015
+Toronto,0.57,2015
+Washington,0.565,2015
+Okla City,0.549,2015
+New Orleans,0.523,2015
+Milwaukee,0.489,2015
+Phoenix,0.476,2015
+Boston,0.465,2015
+Indiana,0.463,2015
+Utah,0.463,2015
+Brooklyn,0.455,2015
+Miami,0.451,2015
+Charlotte,0.402,2015
+Detroit,0.39,2015
+Denver,0.366,2015
+Sacramento,0.354,2015
+Orlando,0.305,2015
+LA Lakers,0.256,2015
+Philadelphia,0.22,2015
+New York,0.207,2015
+Minnesota,0.195,2015
+Golden State,0.846,2016
+San Antonio,0.794,2016
+Cleveland,0.703,2016
+Okla City,0.66,2016
+Toronto,0.647,2016
+LA Clippers,0.625,2016
+Charlotte,0.573,2016
+Miami,0.573,2016
+Boston,0.568,2016
+Atlanta,0.565,2016
+Indiana,0.539,2016
+Portland,0.527,2016
+Chicago,0.512,2016
+Detroit,0.512,2016
+Washington,0.5,2016
+Dallas,0.494,2016
+Memphis,0.488,2016
+Utah,0.488,2016
+Houston,0.483,2016
+Orlando,0.427,2016
+Sacramento,0.402,2016
+Milwaukee,0.402,2016
+Denver,0.402,2016
+New York,0.39,2016
+New Orleans,0.366,2016
+Minnesota,0.354,2016
+Phoenix,0.281,2016
+Brooklyn,0.256,2016
+LA Lakers,0.207,2016
+Philadelphia,0.122,2016
+Golden State,0.838,2017
+San Antonio,0.704,2017
+Houston,0.656,2017
+Cleveland,0.64,2017
+Boston,0.62,2017
+LA Clippers,0.607,2017
+Toronto,0.598,2017
+Utah,0.591,2017
+Washington,0.59,2017
+Okla City,0.552,2017
+Memphis,0.511,2017
+Atlanta,0.511,2017
+Milwaukee,0.5,2017
+Miami,0.5,2017
+Chicago,0.489,2017
+Indiana,0.488,2017
+Denver,0.488,2017
+Portland,0.477,2017
+Detroit,0.451,2017
+Charlotte,0.439,2017
+New Orleans,0.415,2017
+Dallas,0.402,2017
+Sacramento,0.39,2017
+Minnesota,0.378,2017
+New York,0.378,2017
+Orlando,0.354,2017
+Philadelphia,0.342,2017
+LA Lakers,0.317,2017
+Phoenix,0.293,2017
+Brooklyn,0.244,2017
+Houston,0.768,2018
+Golden State,0.718,2018
+Toronto,0.685,2018
+Boston,0.654,2018
+Philadelphia,0.62,2018
+Cleveland,0.596,2018
+New Orleans,0.582,2018
+Indiana,0.573,2018
+Utah,0.57,2018
+Portland,0.57,2018
+Okla City,0.568,2018
+Denver,0.561,2018
+Minnesota,0.552,2018
+San Antonio,0.552,2018
+Milwaukee,0.528,2018
+Miami,0.517,2018
+LA Clippers,0.512,2018
+Washington,0.511,2018
+Detroit,0.476,2018
+Charlotte,0.439,2018
+LA Lakers,0.427,2018
+New York,0.354,2018
+Brooklyn,0.342,2018
+Sacramento,0.329,2018
+Chicago,0.329,2018
+Orlando,0.305,2018
+Atlanta,0.293,2018
+Dallas,0.293,2018
+Memphis,0.268,2018
+Phoenix,0.256,2018
+Milwaukee,0.722,2019
+Toronto,0.698,2019
+Golden State,0.683,2019
+Denver,0.635,2019
+Houston,0.634,2019
+Portland,0.622,2019
+Philadelphia,0.617,2019
+Boston,0.593,2019
+Utah,0.586,2019
+Okla City,0.575,2019
+San Antonio,0.573,2019
+LA Clippers,0.568,2019
+Indiana,0.558,2019
+Brooklyn,0.494,2019
+Orlando,0.494,2019
+Detroit,0.477,2019
+Charlotte,0.476,2019
+Sacramento,0.476,2019
+Miami,0.476,2019
+LA Lakers,0.451,2019
+Minnesota,0.439,2019
+New Orleans,0.402,2019
+Memphis,0.402,2019
+Dallas,0.402,2019
+Washington,0.39,2019
+Atlanta,0.354,2019
+Chicago,0.268,2019
+Cleveland,0.232,2019
+Phoenix,0.232,2019
+New York,0.207,2019
+Milwaukee,0.815,2020
+LA Lakers,0.778,2020
+Toronto,0.719,2020
+LA Clippers,0.688,2020
+Boston,0.672,2020
+Denver,0.662,2020
+Utah,0.641,2020
+Miami,0.631,2020
+Okla City,0.625,2020
+Houston,0.625,2020
+Philadelphia,0.6,2020
+Indiana,0.6,2020
+Dallas,0.597,2020
+Memphis,0.492,2020
+Brooklyn,0.469,2020
+Orlando,0.462,2020
+Portland,0.439,2020
+Sacramento,0.438,2020
+New Orleans,0.438,2020
+San Antonio,0.429,2020
+Phoenix,0.4,2020
+Washington,0.375,2020
+Charlotte,0.354,2020
+Chicago,0.339,2020
+New York,0.318,2020
+Detroit,0.303,2020
+Atlanta,0.299,2020
+Minnesota,0.297,2020
+Cleveland,0.292,2020
+Golden State,0.231,2020
+Phoenix,0.72,2021
+Utah,0.716,2021
+Philadelphia,0.679,2021
+Brooklyn,0.671,2021
+Milwaukee,0.642,2021
+LA Clippers,0.639,2021
+Denver,0.622,2021
+Atlanta,0.58,2021
+LA Lakers,0.57,2021
+Dallas,0.57,2021
+Portland,0.564,2021
+New York,0.546,2021
+Golden State,0.527,2021
+Miami,0.526,2021
+Memphis,0.519,2021
+Boston,0.487,2021
+Indiana,0.473,2021
+Washington,0.456,2021
+San Antonio,0.452,2021
+Charlotte,0.452,2021
+New Orleans,0.431,2021
+Chicago,0.431,2021
+Sacramento,0.431,2021
+Toronto,0.375,2021
+Minnesota,0.319,2021
+Okla City,0.306,2021
+Cleveland,0.306,2021
+Orlando,0.292,2021
+Detroit,0.278,2021
+Houston,0.236,2021
+Phoenix,0.747,2022
+Golden State,0.66,2022
+Memphis,0.66,2022
+Miami,0.64,2022
+Boston,0.619,2022
+Milwaukee,0.617,2022
+Dallas,0.61,2022
+Philadelphia,0.606,2022
+Utah,0.58,2022
+Toronto,0.568,2022
+Denver,0.563,2022
+Minnesota,0.551,2022
+Chicago,0.54,2022
+Cleveland,0.524,2022
+Charlotte,0.518,2022
+Brooklyn,0.517,2022
+Atlanta,0.517,2022
+LA Clippers,0.5,2022
+New York,0.451,2022
+New Orleans,0.444,2022
+Washington,0.427,2022
+San Antonio,0.41,2022
+LA Lakers,0.402,2022
+Sacramento,0.366,2022
+Portland,0.329,2022
+Indiana,0.305,2022
+Okla City,0.293,2022
+Detroit,0.281,2022
+Orlando,0.268,2022
+Houston,0.244,2022
+Milwaukee,0.678,2023
+Denver,0.677,2023
+Boston,0.667,2023
+Philadelphia,0.656,2023
+Memphis,0.602,2023
+Cleveland,0.598,2023
+Sacramento,0.573,2023
+New York,0.57,2023
+Phoenix,0.548,2023
+Miami,0.542,2023
+Golden State,0.526,2023
+LA Lakers,0.525,2023
+Brooklyn,0.523,2023
+LA Clippers,0.517,2023
+New Orleans,0.506,2023
+Atlanta,0.494,2023
+Minnesota,0.494,2023
+Toronto,0.494,2023
+Okla City,0.488,2023
+Chicago,0.488,2023
+Dallas,0.463,2023
+Utah,0.451,2023
+Indiana,0.427,2023
+Washington,0.427,2023
+Orlando,0.415,2023
+Portland,0.402,2023
+Charlotte,0.329,2023
+Houston,0.268,2023
+San Antonio,0.268,2023
+Detroit,0.207,2023
