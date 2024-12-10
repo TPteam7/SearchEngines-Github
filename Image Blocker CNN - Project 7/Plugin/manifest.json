@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "Image Blocker CNN",
+    "version": "1.0",
+    "description": "This extension blocks images using a Convolutional Neural Network.",
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": ["content.js"]
+        }
+    ]
+}
