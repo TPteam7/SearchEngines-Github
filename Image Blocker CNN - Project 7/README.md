@@ -76,12 +76,7 @@ The model demonstrated strong performance and rapid convergence, achieving a fin
 
 The confusion matrix below illustrates the model's precise predictions on the test set.
 
-*(Note: Replace with a screenshot of your confusion matrix if available)*
-
-```
-[[1902, 63],
- [57, 1797]]
-```
+![Confusion Matrix](Confusion.png)
 
 ## 4\. Future Potential
 
